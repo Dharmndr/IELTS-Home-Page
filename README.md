@@ -6,7 +6,7 @@ This project was made as an internship assignment with a focus on **UI/UX design
 ## 🚀 Setup Instructions
 
 1. Clone the repository
-   git clone https://github.com/your-username/ielts-institute.git
+   git clone https://github.com/Dharmndr/IELTS-Home-Page.git
    cd ielts-institute
 2. Install dependencies
    npm install
