@@ -1,19 +1,27 @@
 # IELTS Institute Homepage 🏫
 
-A responsive homepage for a fictional IELTS coaching institute, built using **React (Vite)** and **Tailwind CSS**.  
-This project was made as an internship assignment with a focus on **UI/UX design, responsiveness, and clean code**.
+A responsive Homepage for IELTS Institute, built using **React (Vite)** and **Tailwind CSS**.  
 
 ## 🚀 Setup Instructions
 
 1. Clone the repository
+   
    git clone https://github.com/Dharmndr/IELTS-Home-Page.git
+   
    cd ielts-institute
+   
 2. Install dependencies
+   
    npm install
+   
 3. Run the project locally
+   
    npm run dev
+   
 4. Build for production
+   
    npm run build
+   
 
 🎨 Design Choices
 
@@ -27,7 +35,3 @@ This project was made as an internship assignment with a focus on **UI/UX design
 6. Testimonials Section → short, authentic student reviews to build trust
 7. Contact Form → simple form with success message on submit.
 8. Footer → minimal links + copyright.
-
-Contact Form → simple form with success message on submit.
-
-Footer → minimal links + copyright.
