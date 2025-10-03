@@ -1,16 +1,33 @@
-# React + Vite
+# IELTS Institute Homepage 🏫
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive homepage for a fictional IELTS coaching institute, built using **React (Vite)** and **Tailwind CSS**.  
+This project was made as an internship assignment with a focus on **UI/UX design, responsiveness, and clean code**.
 
-Currently, two official plugins are available:
+## 🚀 Setup Instructions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository
+   git clone https://github.com/your-username/ielts-institute.git
+   cd ielts-institute
+2. Install dependencies
+   npm install
+3. Run the project locally
+   npm run dev
+4. Build for production
+   npm run build
 
-## React Compiler
+🎨 Design Choices
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Modern, professional design with a gradient hero section and clean typography.
+2. Mobile-first responsive layout → works seamlessly on mobile, tablet, and desktop.
+3. Navigation Bar:
+     Desktop → links aligned right + "Join Now" button.
+     Mobile → hamburger menu for links, but "Join Now" stays visible.
+4. Hero Section → engaging headline, subtext, call-to-action button, and an illustration.
+5. Features Section → 3 key feature cards with icons (Speaking, Mock Tests, AI Band Score).
+6. Testimonials Section → short, authentic student reviews to build trust
+7. Contact Form → simple form with success message on submit.
+8. Footer → minimal links + copyright.
 
-## Expanding the ESLint configuration
+Contact Form → simple form with success message on submit.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Footer → minimal links + copyright.
